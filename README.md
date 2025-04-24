@@ -171,7 +171,3 @@ If you encounter any issues:
 - React components are in `frontend/src/components`
 - API services are in `frontend/src/services`
 - TypeScript types are in `frontend/src/types`
-
-## License
-
-[Your chosen license] 
