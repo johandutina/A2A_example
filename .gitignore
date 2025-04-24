@@ -1,0 +1,5 @@
+backend/.env
+backend/.venv/
+backend/agent/__pycache__/code_generator_agent.cpython-39.pyc
+frontend/node_modules/.bin/autoprefixer
+frontend/node_modules/
